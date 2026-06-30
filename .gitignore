@@ -20,7 +20,6 @@ Thumbs.db
 
 # IDEs
 .idea/
-.vscode/
 *.swp
 *.swo
 *~
@@ -38,3 +37,7 @@ venv/
 *.sqlite3-journal
 .envrc
 .review-logs
+branch_structure.json
+temp_auto_push.bat
+temp_interactive_push.bat
+.gitignore
